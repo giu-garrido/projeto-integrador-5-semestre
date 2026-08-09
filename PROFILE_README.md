@@ -79,11 +79,18 @@
 
 ## &nbsp; Statistics
 
-<!-- EDIT · STATS CARDS · replace username=giu-garrido if needed. Colors are hex (no #). -->
+<!-- EDIT · STATS CARDS · replace username=giu-garrido if needed.
+     Service: github-profile-summary-cards (stable). Change the look via theme=
+     Theme gallery: https://github.com/vn7n24fzkq/github-profile-summary-cards  -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giu-garrido&show_icons=true&hide_border=true&title_color=2E5339&icon_color=7FA98C&text_color=3a4a40&bg_color=F2F6F3&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giu-garrido&layout=compact&hide_border=true&title_color=2E5339&text_color=3a4a40&bg_color=F2F6F3&langs_count=8" alt="top langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giu-garrido&theme=vue" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giu-garrido&theme=vue" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giu-garrido&theme=vue" alt="most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=giu-garrido&theme=vue&utcOffset=-3" alt="productive time"/>
 
 <br/>
 
