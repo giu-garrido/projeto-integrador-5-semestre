@@ -1,13 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║   GitHub profile README · "Rivendell" (elven) theme                  ║
-  ║   How to use: copy this file into a repo named exactly like your     ║
-  ║   username (giu-garrido/giu-garrido) and rename it to README.md      ║
-  ║                                                                      ║
-  ║   ✏️  Look for the  <!-- EDIT --> notes to change images & text.     ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <!-- EDIT · BANNER IMAGE
@@ -15,7 +5,7 @@
      desc=       -> subtitle under the name
      color=      -> gradient colors (hex, no #)
      Full docs:  https://github.com/kyechan99/capsule-render  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8e6dd,50:a3c9a8,100:5b8266&height=220&section=header&text=Giulia%20Garrido&fontColor=2E5339&fontSize=52&fontAlignY=38&desc=An%20apprentice%20on%20the%20journey%20through%20data&descAlignY=60&descSize=18&descColor=3a4a40&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F89%2Fd2%2F10%2F89d2100c1829e8ce0f561568b0f9eec3.jpg&f=1&nofb=1&ipt=7ac93084407b173c807b21c0e51cac02c2b7ce01f7432459c7bf2567b69722b8" width="100%" alt="banner"/>
 
 <samp><i>« Even the smallest person can change the course of the future. — Galadriel »</i></samp>
 
@@ -25,7 +15,7 @@
      lines=  -> each phrase separated by ";"  (use + for spaces)
      color=  -> text color (hex, no #)   ·   Preview/build: https://readme-typing-svg.demolab.com  -->
 <a href="https://www.python.org/">
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=3500&pause=900&color=2E5339&center=true&vCenter=true&width=720&lines=Not+all+those+who+wander+are+lost;Data+Science+Student+%C2%B7+5th+Semester;Turning+raw+data+into+wisdom;Python+%C2%B7+PySpark+%C2%B7+Pandas+%C2%B7+Visualization" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&duration=3500&pause=900&color=2E5339&center=true&vCenter=true&width=720&lines=Not+all+those+who+wander+are+lost;Data+Science+Student+%C2%B7+6th+Semester;Learning+MLOps+%26+Machine+Learning;Turning+raw+data+into+wisdom;Python+%C2%B7+PySpark+%C2%B7+Pandas+%C2%B7+Visualization" alt="typing" />
 </a>
 
 </div>
@@ -49,6 +39,7 @@
 - &nbsp; **Giulia Garrido**
 - &nbsp; **Data Science** student
 - &nbsp; Building analyses with **Python, PySpark and data visualization**
+- &nbsp; Currently learning **MLOps** and **Machine Learning**
 - &nbsp; Always learning
 
 ---
@@ -72,12 +63,15 @@
 ![Apache Spark](https://img.shields.io/badge/PySpark-e8f0e9?style=for-the-badge&logo=apachespark&logoColor=2E5339)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-e8f0e9?style=for-the-badge&logo=plotly&logoColor=2E5339)
 ![Seaborn](https://img.shields.io/badge/Seaborn-e8f0e9?style=for-the-badge&logo=python&logoColor=2E5339)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-e8f0e9?style=for-the-badge&logo=scikitlearn&logoColor=2E5339)
 
-**Tools**
+**MLOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-e8f0e9?style=for-the-badge&logo=git&logoColor=2E5339)
 ![GitHub](https://img.shields.io/badge/GitHub-e8f0e9?style=for-the-badge&logo=github&logoColor=2E5339)
 ![VS Code](https://img.shields.io/badge/VS_Code-e8f0e9?style=for-the-badge&logo=visualstudiocode&logoColor=2E5339)
+![Docker](https://img.shields.io/badge/Docker-e8f0e9?style=for-the-badge&logo=docker&logoColor=2E5339)
+![MLflow](https://img.shields.io/badge/MLflow-e8f0e9?style=for-the-badge&logo=mlflow&logoColor=2E5339)
 
 </div>
 
